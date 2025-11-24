@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=E8D9FF,DCC9FF,C7B5FF&height=130&section=header&text=Jiwon's%20GitHub&fontSize=60&animation=twinkling&fontAlign=50&fontAlignY=55&fontColor=AAAAAA)
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=E8D9FF,DCC9FF,C7B5FF&height=200&section=header&text=Jiwon's%20GitHub&fontSize=80&animation=twinkling&fontAlign=50&fontAlignY=55&fontColor=FFF9C4)
+</div>
 
 <div align="center">
   <h2>👩‍🎓 Education</h2>
