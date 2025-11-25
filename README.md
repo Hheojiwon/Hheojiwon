@@ -40,6 +40,12 @@
   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+<div align="center">
+  <h2>🌟 Statistics</h2>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0618amy)](https://solved.ac/0618amy/)
+</div>
+
 <!--
 **Hheojiwon/Hheojiwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
