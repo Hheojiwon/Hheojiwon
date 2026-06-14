@@ -43,6 +43,6 @@
 <br/>
 
 ## 💳 Certification
-- SQLD(26.06)
+- SQLD (26.06)
 - ADsP (26.03)
 - OPIc (26.01)
