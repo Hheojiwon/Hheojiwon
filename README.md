@@ -10,7 +10,7 @@
 <br/>
 
 ## 👩‍💻 Experiences
-* **2026.03 – Present** | Backend Developer, [디프만](https://www.depromeet.com/) (18기)
+* **2026.03 – 2026.06** | Backend Developer, [디프만](https://www.depromeet.com/) (18기)
 * **2025.10 – 2025.12** | Server Part, 우아한테크코스 프리코스 과정 참여
 * **2025.09 – 2026.01** | Backend Developer, 대학생 연합 IT동아리 [잇타](https://www.instagram.com/its_stime_/) (8기)
 * **2024.05 – 2024.08** | NEXTSTEP Spring 멘토링(초록 스터디) 참여
