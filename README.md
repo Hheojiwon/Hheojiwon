@@ -28,5 +28,4 @@ Hi! I'm Backend Developer with a background in Information and Communication Eng
 
 <img src="https://raw.githubusercontent.com/hheojiwon/hheojiwon/output/pacman-contribution-graph-dark.svg?v=1" />
 
-<img src="https://raw.githubusercontent.com/hheojiwon/hheojiwon/output/snake.svg?cache=1" alt="Snake animation" />
 
