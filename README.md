@@ -16,7 +16,7 @@ Hi! I'm a Backend Developer with a background in Information and Communication E
 <ul>
   <li>SureSoftTech — Software Engineer Intern (2026.07 – Present)</li>
 </ul>
- <strong>Proficiencies</strong> <ul> <li>💻 Languages: Java, Python, C++</li> <li>🔧 Backend &amp; Framework: Spring Boot, RESTful API</li> <li>☁️ Cloud &amp; DevOps: AWS, GCP, Docker</li> <li>🗄️ Database: MySQL, Redis</li> <li>📊 Collaboration &amp; Tools: Git, GitHub, Swagger, GitHub Actions</li> </ul>
+ <strong>Proficiencies</strong> <ul> <li>💻 Languages: Java, Python, C++</li> <li>🔧 Backend &amp; Framework: Spring Boot, RESTful API</li> <li>☁️ Cloud &amp; DevOps: AWS, GCP, Docker</li> <li>🗄️ Database: MySQL, PostgreSQL, Redis</li> <li>📊 Collaboration &amp; Tools: Git, GitHub, Swagger, GitHub Actions</li> </ul>
  <strong>Certifications</strong>
 <ul>
   <li>SQLD</li>
